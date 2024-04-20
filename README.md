@@ -1,3 +1,4 @@
+English | [简体中文](./README_zh.md)
 # Introduction
 RapidLogging is a logging system in the Rapid application development framework, 
 which has features such as cross-platform, high-performance, low hard disk usage, support for coloring, and support for multiple processes
