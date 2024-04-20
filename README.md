@@ -15,6 +15,6 @@ If constants can be used in the log information, the ID of the constant is direc
 This process repeats back and forth, forming a bytecode format where log information and constant pool alternate side by side
 ## Structure
 ### General Structure
-![img.png](readme/log-structure.png)
-### Log Block Structure
 ![img.png](readme/general-structure.png)
+### Log Block Structure
+![img.png](readme/log-structure.png)
